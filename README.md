@@ -27,7 +27,7 @@ I'm Maksudul Hasan Tushar, programmer with 4 years of working experience. I deve
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/tushar-hasan-32945415a"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tushar-hasan-32945415a"><img src="https://img.shields.io/badge/Maksudul%20Hasan%20Tushar-Linkedin-blue"/></a>
 </p>
 
 -----
