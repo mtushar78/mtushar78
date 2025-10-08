@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Maksudul Hasan Tushar, programmer with 6+ years of working experience. I develop web application with multiple languages depending on it's purpose. I code in Java, JavaScript, PHP, python. I like Java the most. Personally I like to call myself a language independent programmer focusing on algorithm, code structure in-depth concepts for greater efficiency. You can check out my linked in profile linkedin.com/in/tushar-hasan-32945415a.
+Senior Full-Stack Developer | React, Next.js, Node.js | 6+ years experience
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
