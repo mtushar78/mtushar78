@@ -58,7 +58,7 @@ Senior Full-Stack Developer | React, Next.js, Node.js | 6+ years experience
 <p align="center">
 <a href="https://github.com/mtushar78">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mtushar78&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mtushar78&layout=compact&langs_count=8&theme=algolia&hide=javascript&include_all_commits=true"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mtushar78&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
